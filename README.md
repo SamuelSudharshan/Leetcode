@@ -5,16 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SamuelSudharshan/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -32,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
