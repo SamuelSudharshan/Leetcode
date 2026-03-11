@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [1980-find-unique-binary-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [3467-transform-array-by-parity](https://github.com/SamuelSudharshan/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/SamuelSudharshan/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/SamuelSudharshan/Leetcode/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/SamuelSudharshan/Leetcode/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
