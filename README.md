@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/SamuelSudharshan/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SamuelSudharshan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
 | [1980-find-unique-binary-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Backtracking
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SamuelSudharshan/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SamuelSudharshan/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3467-transform-array-by-parity](https://github.com/SamuelSudharshan/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
