@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/SamuelSudharshan/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SamuelSudharshan/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/SamuelSudharshan/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SamuelSudharshan/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SamuelSudharshan/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
