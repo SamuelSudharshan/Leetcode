@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/SamuelSudharshan/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/SamuelSudharshan/Leetcode/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
+| [2487-remove-nodes-from-linked-list](https://github.com/SamuelSudharshan/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -202,8 +204,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SamuelSudharshan/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/SamuelSudharshan/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SamuelSudharshan/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/SamuelSudharshan/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
