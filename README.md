@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SamuelSudharshan/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/SamuelSudharshan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2573-find-the-string-with-lcp](https://github.com/SamuelSudharshan/Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [0874-walking-robot-simulation](https://github.com/SamuelSudharshan/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1480-running-sum-of-1d-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SamuelSudharshan/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SamuelSudharshan/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SamuelSudharshan/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SamuelSudharshan/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/SamuelSudharshan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SamuelSudharshan/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0189-rotate-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SamuelSudharshan/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SamuelSudharshan/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SamuelSudharshan/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -250,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/SamuelSudharshan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
