@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/SamuelSudharshan/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamuelSudharshan/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3701-compute-alternating-sum](https://github.com/SamuelSudharshan/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/SamuelSudharshan/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SamuelSudharshan/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3701-compute-alternating-sum](https://github.com/SamuelSudharshan/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## String Matching
 |  |
 | ------- |
