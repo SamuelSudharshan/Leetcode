@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [0874-walking-robot-simulation](https://github.com/SamuelSudharshan/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1480-running-sum-of-1d-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SamuelSudharshan/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SamuelSudharshan/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SamuelSudharshan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/SamuelSudharshan/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1980-find-unique-binary-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/SamuelSudharshan/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Union-Find
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0189-rotate-array) |
+| [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SamuelSudharshan/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SamuelSudharshan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
