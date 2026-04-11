@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3280-convert-date-to-binary](https://github.com/SamuelSudharshan/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SamuelSudharshan/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/SamuelSudharshan/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SamuelSudharshan/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/SamuelSudharshan/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SamuelSudharshan/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3498-reverse-degree-of-a-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/SamuelSudharshan/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## String Matching
