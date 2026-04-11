@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SamuelSudharshan/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/SamuelSudharshan/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SamuelSudharshan/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SamuelSudharshan/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Backtracking
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/SamuelSudharshan/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SamuelSudharshan/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Union-Find
 |  |
 | ------- |
