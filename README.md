@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/SamuelSudharshan/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/SamuelSudharshan/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/SamuelSudharshan/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SamuelSudharshan/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1980-find-unique-binary-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/SamuelSudharshan/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SamuelSudharshan/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SamuelSudharshan/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
