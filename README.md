@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SamuelSudharshan/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SamuelSudharshan/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/SamuelSudharshan/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SamuelSudharshan/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/1720-decode-xored-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SamuelSudharshan/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SamuelSudharshan/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/SamuelSudharshan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SamuelSudharshan/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
