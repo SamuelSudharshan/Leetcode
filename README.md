@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SamuelSudharshan/Leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [0874-walking-robot-simulation](https://github.com/SamuelSudharshan/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1470-shuffle-the-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SamuelSudharshan/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SamuelSudharshan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/SamuelSudharshan/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SamuelSudharshan/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/SamuelSudharshan/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SamuelSudharshan/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SamuelSudharshan/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/SamuelSudharshan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
