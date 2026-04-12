@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SamuelSudharshan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SamuelSudharshan/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2396-strictly-palindromic-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/SamuelSudharshan/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/SamuelSudharshan/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SamuelSudharshan/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SamuelSudharshan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/SamuelSudharshan/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
