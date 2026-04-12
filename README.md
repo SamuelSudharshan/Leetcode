@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SamuelSudharshan/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3516-find-closest-person](https://github.com/SamuelSudharshan/Leetcode/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/SamuelSudharshan/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
