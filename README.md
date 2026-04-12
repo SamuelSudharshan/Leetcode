@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/SamuelSudharshan/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SamuelSudharshan/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SamuelSudharshan/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0189-rotate-array) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SamuelSudharshan/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
