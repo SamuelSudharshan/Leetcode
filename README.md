@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/SamuelSudharshan/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamuelSudharshan/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SamuelSudharshan/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3516-find-closest-person](https://github.com/SamuelSudharshan/Leetcode/tree/master/3516-find-closest-person) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SamuelSudharshan/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
