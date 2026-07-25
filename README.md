@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SamuelSudharshan/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3467-transform-array-by-parity](https://github.com/SamuelSudharshan/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamuelSudharshan/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SamuelSudharshan/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3516-find-closest-person](https://github.com/SamuelSudharshan/Leetcode/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SamuelSudharshan/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
