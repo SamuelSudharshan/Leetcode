@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/SamuelSudharshan/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/SamuelSudharshan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/SamuelSudharshan/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1108-defanging-an-ip-address](https://github.com/SamuelSudharshan/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamuelSudharshan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SamuelSudharshan/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/SamuelSudharshan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0567-permutation-in-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SamuelSudharshan/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SamuelSudharshan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/SamuelSudharshan/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/SamuelSudharshan/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/SamuelSudharshan/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SamuelSudharshan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamuelSudharshan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0567-permutation-in-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SamuelSudharshan/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SamuelSudharshan/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
