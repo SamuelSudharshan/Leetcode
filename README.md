@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SamuelSudharshan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/SamuelSudharshan/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/SamuelSudharshan/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SamuelSudharshan/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1386-cinema-seat-allocation](https://github.com/SamuelSudharshan/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/SamuelSudharshan/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SamuelSudharshan/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SamuelSudharshan/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SamuelSudharshan/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SamuelSudharshan/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
