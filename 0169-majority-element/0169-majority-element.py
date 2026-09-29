@@ -1,10 +1,14 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        map={}
-        res=majority=0
-        for i in nums:
-            map[i]=1+map.get(i,0)
-            if map[i] > majority:
-                res=i
-                majority=map[i]
-        return res
+    def majorityElement(self, nums: list[int]) -> int:
+        fn=None
+        c=0
+        for num in nums:
+            if c == 0:
+                fn=num
+            if num==fn:
+                c+=1
+            else:
+                c-=1
+        return fn
+
+        
