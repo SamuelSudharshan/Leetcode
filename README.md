@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SamuelSudharshan/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamuelSudharshan/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/SamuelSudharshan/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SamuelSudharshan/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SamuelSudharshan/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamuelSudharshan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/SamuelSudharshan/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SamuelSudharshan/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamuelSudharshan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SamuelSudharshan/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SamuelSudharshan/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
