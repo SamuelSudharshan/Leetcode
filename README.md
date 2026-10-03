@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SamuelSudharshan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SamuelSudharshan/Leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/SamuelSudharshan/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SamuelSudharshan/Leetcode/tree/master/0155-min-stack) |
 | [2069-walking-robot-simulation-ii](https://github.com/SamuelSudharshan/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Counting Sort
 |  |
