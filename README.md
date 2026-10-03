@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamuelSudharshan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/SamuelSudharshan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SamuelSudharshan/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/SamuelSudharshan/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SamuelSudharshan/Leetcode/tree/master/0125-valid-palindrome) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SamuelSudharshan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SamuelSudharshan/Leetcode/tree/master/0071-simplify-path) |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SamuelSudharshan/Leetcode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SamuelSudharshan/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
