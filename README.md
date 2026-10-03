@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SamuelSudharshan/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/SamuelSudharshan/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SamuelSudharshan/Leetcode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/SamuelSudharshan/Leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/SamuelSudharshan/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/SamuelSudharshan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SamuelSudharshan/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SamuelSudharshan/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/SamuelSudharshan/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/SamuelSudharshan/Leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/SamuelSudharshan/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SamuelSudharshan/Leetcode/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/SamuelSudharshan/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SamuelSudharshan/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/SamuelSudharshan/Leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/SamuelSudharshan/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SamuelSudharshan/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamuelSudharshan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/SamuelSudharshan/Leetcode/tree/master/0224-basic-calculator) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SamuelSudharshan/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SamuelSudharshan/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
